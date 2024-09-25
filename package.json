@@ -1,8 +1,8 @@
 {
-  "name": "found-x-server",
+  "name": "lost-and-found-server",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Next Level Developer",
+  "author": "Mir Hussain",
   "license": "MIT",
   "scripts": {
     "start": "node dist/server.js",
